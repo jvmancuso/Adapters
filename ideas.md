@@ -59,3 +59,10 @@ I got `2033770` data points for ~6.5 years of data
 **data format**: ?
 
 **content**: ?
+
+## Freedom of Information Act Requests
+**feasibility**: depends on format of data
+
+**data format**: depends on agency -- uncertain
+
+**content**: tons of stuff -- any requested documents related to a specific person within a particular federal agency, as long as it doesn't fall under an FOIA exemption (e.g. national security, ongoing investigation, etc.)
